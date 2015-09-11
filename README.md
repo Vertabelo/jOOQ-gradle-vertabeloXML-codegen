@@ -78,6 +78,8 @@ org.jooq.util.GenerationTool.generate(
 
 The generated code is located under the path provided in target section in build.gradle.
 
+Full tutorial here: http://www.vertabelo.com/blog/documentation/generate-jooq-classes-with-vertabelo-and-gradle
+
 More information about using standalone jOOQ code generator with Gradle here: (http://www.jooq.org/doc/3.4/manual/code-generation/codegen-gradle/)
 
 
